@@ -67,5 +67,8 @@ plt.show()
 
 
 
+"""Data Analysis Project in Python(COVID-19).ipynb
 
+You can visit infomenter.com for full article with explaination
+"""
 
